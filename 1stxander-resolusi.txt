@@ -3,3 +3,5 @@
 - Konsisten belajar programing
 - Belajar affiliate
 - Besok Sukses
+- Membuat web Gallery Pic yang bisa print
+- Membuat aplikasi android
